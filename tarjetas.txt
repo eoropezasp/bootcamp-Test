@@ -1,2 +1,4 @@
 masterdcard
 visa
+pagofacil
+westerunion
