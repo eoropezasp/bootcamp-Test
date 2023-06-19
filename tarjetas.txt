@@ -1,2 +1,4 @@
 masterdcard
 visa
+amex
+rapipago
