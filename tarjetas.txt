@@ -1,0 +1,6 @@
+masterdcard
+visa
+pagofacil
+westerunion
+amex
+rapipago
